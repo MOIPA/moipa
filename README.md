@@ -1,4 +1,8 @@
-### Hey 👋
+### Hello 👋
+
+- 🔭  I've learnt about deep learning, reinforcement learning, federated learning, computer-vision with zero shot, llama, lang chain
+
+- 🌱  I'm currently focusing on Multi-modal Natural Language Processing
 
 <!--
 **MOIPA/moipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
